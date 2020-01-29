@@ -20,4 +20,11 @@ lam_sub <-  laminaria %>%
    
 
 summarise(mean_total_length = mean(total_length, na.rm = TRUE)
+          
+          
+          
+ ## Incomplete
+          # Neat scripts overall
+          # Please add comments after each line of code as this helps you and the collaborator understand what you are doing
+          # Overall mark for day 1: 6/10
   
